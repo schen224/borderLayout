@@ -15,7 +15,7 @@ public class Main {
         panel.setBackground(Color.BLUE);
 
         //3. Create components
-        JLabel label = new JLabel("Hello world");
+        JLabel label = new JLabel("RAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH");
         JButton button = new JButton("push");
         JTextField textField = new JTextField(10);
         textField.setCaretColor(Color.red);
